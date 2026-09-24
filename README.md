@@ -1,4 +1,4 @@
-# ✈️ TG-WS-Proxy-MacOS
+# ✈️ Автоматизация TG-WS-Proxy-MacOS
 
 <p align="center">
   <a href="https://www.icloud.com/shortcuts/0de3b69be6d04db4ac4e1268cd5de142">
